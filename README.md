@@ -1,6 +1,10 @@
-# NLM_Bucci_Delamater&Castiello
+# Neurocomputational solutions for Negative Patterning
 
-This repository contain the code used for the manuscript "The Retrosplenial Cortex as a Possible “Sensory Integration” Area: A Neural Network Modeling Approach of the Differential Outcomes Effect in Negative Patterning", accepted in Neurobiology of Learning and Memory for the special issue in Honor of David J. Bucci.
-Link to paper: https://www.sciencedirect.com/science/article/pii/S1074742721001490#f0015
+## Summary:
+This repository contain the code used for the simulations from the manuscript accepted in Neurobiology of Learning and Memory for the special issue in Honor of David J. Bucci in collaboration of Andrew Delamater from CUNY-Brooklyn College.
 
-For more information contact the authors Prof. Andrew Delamater or Santiago Castiello.
+## Reference:
+Castiello, S., Zhang, W., & Delamater, A. R. (2021). The retrosplenial cortex as a possible “sensory integration” area: A neural network modeling approach of the differential outcomes effect in negative patterning. Neurobiology of Learning and Memory, 185, 107527. https://doi.org/10.1016/j.nlm.2021.107527
+
+## List of content files:
+-simulation code: NP_sim_v5.R
