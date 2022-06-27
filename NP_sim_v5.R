@@ -6,6 +6,9 @@
 # Remove all of the elements currently loaded in R
 rm(list=ls(all=TRUE)) 
 
+# libraries
+if (!require(ggpubr)) {install.packages('ggpubr')}; library(ggpubr)
+if (!require(viridis)) {install.packages('viridis')}; library(viridis)
 
 
 # functions
